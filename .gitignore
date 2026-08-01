@@ -1,0 +1,15 @@
+# runtime state created by the shell (Deliverable 4)
+mysh_users.json
+mysh_perms.json
+*.lock
+*.tmp
+
+# python
+__pycache__/
+*.pyc
+
+# editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
